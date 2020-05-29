@@ -167,7 +167,8 @@ main {
   grid-area: bioimage;
   margin: auto;
   border-radius: 50%;
-  border: #eece1a 3px solid; }
+  border: #eece1a 3px solid;
+  height: 250px; }
 
 .bio {
   grid-area: bio;
